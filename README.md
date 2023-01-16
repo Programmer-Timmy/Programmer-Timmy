@@ -1,4 +1,4 @@
-# Hi there, I'm Matthijs Iriks 👋 
+# Hi there, I'm Programmer Timmy 👋 
 
 [![Website](https://img.shields.io/website?label=ProgrammerTimmy.nl&style=for-the-badge&url=https%3A%2F%2ProgrammerTimmy.nl)](http://portfolio.ictcampus.nl/567589/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iriks_it?color=1DA1F2&logo=twitter&style=for-the-badge)]
@@ -34,28 +34,7 @@
 
 ---
 
-<details>
-  <summary> :diamond_shape_with_a_dot_inside: Recent Blog Posts </summary>
-  
-<!-- BLOG-POST-LIST:START -->
-- [Welcome!](https://iriks-it.nl/blog/welcome/)
-<!-- BLOG-POST-LIST:END -->
-  ➡️ [more blog posts...](https://iriks-it.nl/)
-</details>
-
----
-
-<details>
-  <summary> :diamond_shape_with_a_dot_inside: Recent Activity </summary>
-  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
-2. 💪 Opened PR [#1](https://github.com/iriks-it/test/pull/1) in [iriks-it/test](https://github.com/iriks-it/test)
-<!--END_SECTION:activity-->
- 
----
-
-### :diamond_shape_with_a_dot_inside: Github views
+### Github views
 
 <img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
 
