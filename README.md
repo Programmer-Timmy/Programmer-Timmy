@@ -1,6 +1,6 @@
 # Hi there, I'm Programmer Timmy 👋 
 
-[![Website](https://img.shields.io/website?label=portfolio.ictcampus.nl&style=for-the-badge&url=https%3A%2F%2portfolio.ictcampus.nl)](http://portfolio.ictcampus.nl/567589/)
+[![Website](https://img.shields.io/website?label=portfolio.ictcampus.nl&style=for-the-badge&url=https%3A%2F%2Fportfolio.ictcampus.nl)](http://portfolio.ictcampus.nl/567589/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TimmygamerNL?color=1DA1F2&logo=twitter&style=for-the-badge)](/#)
 
 ## A passionate backend developer from The Netherlands
