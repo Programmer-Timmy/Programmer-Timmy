@@ -25,6 +25,9 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="padding-right:10px;"/>
 
+<br>
+<br>
+
 ### 🎧Currently listening to
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
