@@ -36,10 +36,6 @@
 
 ---
 
-### 🎧Currently listening to
-
----
-
 ### Github views
 
 <img src="https://komarev.com/ghpvc/?username=Programer-timmy&label=Profile%20views&color=ff80ff&style=flat" alt="Programer-timmy" />
