@@ -3,6 +3,8 @@
 [![Website](https://img.shields.io/website?label=Portfolio.ProgrammerTimmy.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](http://portfolio.ictcampus.nl/567589/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TimmygamerNL?color=1DA1F2&logo=twitter&style=for-the-badge)](/#)
 
+---
+
 ## A passionate backend/frontent developer from The Netherlands
 
 - 🔭 I’m currently working on my portfolio
@@ -11,11 +13,15 @@
 - 💬 Ask me about **SCSS, PHP, JavaScript**
 - 📄 Know about my experiences [http://portfolio.ictcampus.nl/567589/about/](http://portfolio.ictcampus.nl/567589/about/)
 
+---
+
 ### ✉ Connect with me:
 
 [![website](./img/globe-light.svg)](http://portfolio.ictcampus.nl/567589/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://portfolio.ictcampus.nl/567589/#gh-dark-mode-only)
 &nbsp;&nbsp;
+
+---
 
 ### 🛠 Languages and Tools:
 
@@ -28,9 +34,13 @@
 <br>
 <br>
 
+---
+
 ### 🎧Currently listening to
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
+
+---
 
 ### Github views
 
