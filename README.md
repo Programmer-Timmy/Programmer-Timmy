@@ -5,7 +5,7 @@
 
 ---
 
-## A passionate backend/frontent developer from The Netherlands
+## A passionate backend/frontend developer from The Netherlands
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning **Backend**
