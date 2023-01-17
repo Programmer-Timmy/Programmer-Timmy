@@ -25,17 +25,12 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="padding-right:10px;"/>
 
-<br />
-<br />
-
 ### 🎧Currently listening to
 
 [![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/1149065989)
 
----
-
 ### Github views
 
-<img src="https://komarev.com/ghpvc/?username=iriks-it&label=Profile%20views&color=ff80ff&style=flat" alt="iriks-it" />
+<img src="https://komarev.com/ghpvc/?username=Programer-timmy&label=Profile%20views&color=ff80ff&style=flat" alt="Programer-timmy" />
 
 [website]: http://portfolio.ictcampus.nl/567589/
