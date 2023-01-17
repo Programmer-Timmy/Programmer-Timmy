@@ -38,8 +38,6 @@
 
 ### 🎧Currently listening to
 
-[![Spotify](https://now-playing-iriksit.vercel.app/api/spotify)](https://open.spotify.com/user/pvep73542lioge14tc4if7615?si=40f63e89e00445d7)
-
 ---
 
 ### Github views
