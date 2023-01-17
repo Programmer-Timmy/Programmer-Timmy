@@ -38,7 +38,7 @@
 
 ### 🎧Currently listening to
 
-[![Spotify](https://spotify-now-playing-programmer-timmy.vercel.app/api/spotify)]
+[![Spotify](https://spotify-now-playing-programmer-timmy.vercel.app/api/spotify)](https://open.spotify.com/user/pvep73542lioge14tc4if7615)
 
 ---
 
