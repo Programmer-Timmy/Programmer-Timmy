@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning **Backend**
 - 👨‍💻 All of my projects are available at [http://portfolio.ictcampus.nl/567589/](http://portfolio.ictcampus.nl/567589/)
-- 💬 Ask me about **SCSS, PHP, JavaScript**
+- 💬 Ask me about **SCSS, PHP, JavaScript, Python, MySQL**
 - 📄 Know about my experiences [http://portfolio.ictcampus.nl/567589/about/](http://portfolio.ictcampus.nl/567589/about/)
 
 ---
