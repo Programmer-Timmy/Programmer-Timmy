@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=Portfolio.ProgrammerTimmy.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](http://portfolio.ictcampus.nl/567589/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TimmygamerNL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TimmygamerNL)
 
----
-
 ## A passionate backend/frontend developer from The Netherlands
 
 - 🔭 I’m currently working on my portfolio
