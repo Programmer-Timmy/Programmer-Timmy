@@ -1,7 +1,7 @@
 # Hi there, I'm Programmer Timmy 👋 
 
 [![Website](https://img.shields.io/website?label=Portfolio.ProgrammerTimmy.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](http://portfolio.ictcampus.nl/567589/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/TimmygamerNL?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TimmygamerNL)
+[![Twitter Follow](https://img.shields.io/badge/follow-%40ProgrammerTimmy-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Programer-Timmy&screen_name=ProgramerTimmy)
 
 ## A passionate backend/frontend developer from The Netherlands
 
