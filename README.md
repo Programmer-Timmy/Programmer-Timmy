@@ -18,6 +18,11 @@
 [![website](./img/globe-light.svg)](http://portfolio.ictcampus.nl/567589/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](http://portfolio.ictcampus.nl/567589/#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/TimmygamerNL#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/TimmygamerNL#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://nl.linkedin.com/in/tim-van-der-kloet-110395235#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://nl.linkedin.com/in/tim-van-der-kloet-110395235#gh-dark-mode-only)
 
 ---
 
