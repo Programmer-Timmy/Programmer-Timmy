@@ -7,16 +7,16 @@
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning **Backend**
-- 👨‍💻 All of my projects are available at [http://portfolio.ictcampus.nl/567589/](http://portfolio.ictcampus.nl/567589/)
+- 👨‍💻 All of my projects are available at [http://portfolio.timmygamer.nl/](http://portfolio.timmygamer.nl/)
 - 💬 Ask me about **SCSS, PHP, JavaScript, Python, MySQL**
-- 📄 Know about my experiences [http://portfolio.ictcampus.nl/567589/about/](http://portfolio.ictcampus.nl/567589/about/)
+- 📄 Know about my experiences [http://portfolio.timmygamer.nl/about/](http://portfolio.timmygamer.nl/about/)
 
 ---
 
 ### ✉ Connect with me:
 
-[![website](./img/globe-light.svg)](http://portfolio.ictcampus.nl/567589/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](http://portfolio.ictcampus.nl/567589/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](http://portfolio.timmygamer.nl/)
+[![website](./img/globe-dark.svg)](http://portfolio.timmygamer.nl/)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/TimmygamerNL#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/TimmygamerNL#gh-dark-mode-only)
