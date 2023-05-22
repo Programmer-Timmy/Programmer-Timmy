@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning **Backend**
-- 👨‍💻 All of my projects are available at [http://portfolio.timmygamer.nl/](http://portfolio.timmygamer.nl/)
+- 👨‍💻 All of my projects are available at [http://portfolio.timmygamer.nl/projects](http://portfolio.timmygamer.nl/projects)
 - 💬 Ask me about **SCSS, PHP, JavaScript, Python, MySQL**
 - 📄 Know about my experiences [http://portfolio.timmygamer.nl/about/](http://portfolio.timmygamer.nl/about/)
 
