@@ -1,4 +1,4 @@
-# Hi there, I'm Programmer Timmy 👋 
+# Hi there, I'm Programmer Timmy! 👋
 
 [![Website](https://img.shields.io/website?label=Portfolio.ProgrammerTimmy.nl&style=for-the-badge&url=https%3A%2F%2Firiks-it.nl)](http:portfolio.timmygamer.nl)
 [![Twitter Follow](https://img.shields.io/badge/follow-%40TimmygamerNL-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/TimmygamerNL)
@@ -39,14 +39,13 @@
 
 ---
 
-### 🎧Currently listening to
+### 🎧 Currently listening to
 
 [![Spotify](https://spotify-now-playing-programmer-timmy.vercel.app/api/spotify)](https://open.spotify.com/user/pvep73542lioge14tc4if7615)
 
 ---
 
-### Github views
+### Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Programer-timmy&label=Profile%20views&color=ff80ff&style=flat" alt="Programer-timmy" />
 
-[website]: http://portfolio.ictcampus.nl/567589/
