@@ -33,7 +33,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26" height="26" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" height="26" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="26" height="26" style="padding-right:10px;"/>
-<img aling="left" src="https://th.bing.com/th/id/R.c1bd1642a7f46e99640de8960b946f22?rik=HjKYel6FaMsvdA&pid=ImgRaw&r=0" alt="python" widt="36" height="26" style="padding-right:10px;"/>
+<img aling="left" src="https://th.bing.com/th/id/OIP.HrBOk_qD-pQSmgSI3XzRJAHaHw?rs=1&pid=ImgDetMain" alt="python" widt="36" height="26" style="padding-right:10px;"/>
 
 <br>
 <br>
