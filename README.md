@@ -1,11 +1,9 @@
 <div align="center">
   <h1>⭐️ Programmer Timmy ⭐️</h1>  
   <Br>
-  <Br>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Programmer+Timmy!;Welkom+to+my+profile!;Have+a+look+around!)](https://git.io/typing-svg)
   
-  <Br>
   <Br>
 </div>
 
@@ -22,9 +20,8 @@
 
   <Br>
 ## 🛠 Tech Stack:
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
-    <span>🌍</span>
+<div>
+    <span ">🌍</span>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&labelColor=gray" alt="HTML5"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=1572B6&labelColor=gray" alt="CSS3"></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=gray" alt="JavaScript"></a>
@@ -62,9 +59,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Webmin-00FF00?style=flat&logo=webmin&labelColor=gray" alt="Webmin"></a>
   </div>
 </div>
-<br>
 <Br>
-<br>
 
 
 ### 🎧 Currently listening to:
