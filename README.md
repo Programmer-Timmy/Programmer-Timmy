@@ -21,20 +21,23 @@
   <Br>
 ## 🛠 Tech Stack:
 <div>
-    <span ">🌍</span>
+  <div>
+    <span>🌐</span>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&labelColor=gray" alt="HTML5"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=1572B6&labelColor=gray" alt="CSS3"></a>
     <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=gray" alt="JavaScript"></a>
     <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&labelColor=gray" alt="jQuery"></a>
     <a href="#"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&labelColor=gray" alt="SCSS"></a>
+    <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&labelColor=gray" alt="WordPress"></a>
   </div>
   <br>
   
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
     <span>⚙️</span>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&labelColor=gray" alt="PHP"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&labelColor=gray" alt="Laravel"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&labelColor=gray" alt="Python"></a>
-    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&labelColor=gray" alt="C#"></a>
+    <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c%23&labelColor=gray" alt="C#"></a>
   </div>
   <br>
 
@@ -58,6 +61,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=gray" alt="Ubuntu"></a>
     <a href="#"><img src="https://img.shields.io/badge/Webmin-00FF00?style=flat&logo=webmin&labelColor=gray" alt="Webmin"></a>
   </div>
+
 </div>
 <Br>
 
