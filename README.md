@@ -18,7 +18,6 @@
 
 - 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [portfolio/projects](https://portfolio.timmygamer.nl/projects)
-- 💬 Ask me about **CSS, SASS/SCSS, PHP, JavaScript, Python, MySQL, C#, BootStrap**
 - 📄 Know about my experiences [portfolio/about](https://portfolio.timmygamer.nl/about)
 
   <Br>
