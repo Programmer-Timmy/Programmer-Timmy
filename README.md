@@ -17,9 +17,9 @@
 ## A passionate backend/frontend developer from The Netherlands
 
 - 🌱 I’m currently learning **Python**
-- 👨‍💻 All of my projects are available at [http://portfolio.timmygamer.nl/projects](http://portfolio.timmygamer.nl/projects)
+- 👨‍💻 All of my projects are available at [portfolio/projects](https://portfolio.timmygamer.nl/projects)
 - 💬 Ask me about **CSS, SASS/SCSS, PHP, JavaScript, Python, MySQL, C#, BootStrap**
-- 📄 Know about my experiences [http://portfolio.timmygamer.nl/about](http://portfolio.timmygamer.nl/about)
+- 📄 Know about my experiences [portfolio/about](https://portfolio.timmygamer.nl/about)
 
   <Br>
 ## 🛠 Tech Stack:
