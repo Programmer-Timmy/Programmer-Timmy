@@ -37,9 +37,10 @@
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
     <span>⚙️</span>
     <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&labelColor=gray" alt="PHP"></a>
-    <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&labelColor=gray" alt="Laravel"></a>
     <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&labelColor=gray" alt="Python"></a>
     <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c%23&labelColor=gray" alt="C#"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&labelColor=gray" alt="Laravel"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&labelColor=gray" alt="Symfony"></a>
   </div>
   <br>
 
