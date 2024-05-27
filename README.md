@@ -65,6 +65,12 @@
     <a href="#"><img src="https://img.shields.io/badge/Webmin-00FF00?style=flat&logo=webmin&labelColor=gray" alt="Webmin"></a>
   </div>
 
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
+  <span>🔄</span>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=gray" alt="Git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&labelColor=gray" alt="GitHub"></a>
+</div>
+
 </div>
 <Br>
 
