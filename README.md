@@ -64,6 +64,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&labelColor=gray" alt="Ubuntu"></a>
     <a href="#"><img src="https://img.shields.io/badge/Webmin-00FF00?style=flat&logo=webmin&labelColor=gray" alt="Webmin"></a>
   </div>
+  <br>
 
   <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 10px;">
   <span>🔄</span>
