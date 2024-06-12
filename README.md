@@ -27,7 +27,7 @@
     <span>🌐</span>
     <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&labelColor=gray" alt="HTML5"></a>
     <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=1572B6&labelColor=gray" alt="CSS3"></a>
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=gray" alt="JavaScript"></a>
+    <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&labelColor=gray" alt="TypeScript"></a>
     <a href="#"><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&labelColor=gray" alt="jQuery"></a>
     <a href="#"><img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&labelColor=gray" alt="SCSS"></a>
     <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&labelColor=gray" alt="WordPress"></a>
