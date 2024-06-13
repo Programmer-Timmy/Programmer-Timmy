@@ -9,7 +9,7 @@
   <Br>
   <Br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Programmer+Timmy!;Welkom+to+my+profile!;Have+a+look+around!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Programmer+Timmy!;Welkom+to+my+profile!;Have+a+look+around!)](#)
   
   <Br>
 </div>
@@ -76,10 +76,12 @@
 </div>
 <Br>
 
-
+&nbsp;<div align="center">
 ### 🎧 Currently listening to:
 
-[![Spotify](https://spotify-now-playing-programmer-timmy.vercel.app/api/spotify)](https://open.spotify.com/user/pvep73542lioge14tc4if7615)
+![Spotify](https://spotify-now-playing-timmy.vercel.app/api/spotify)
+
+</div>
 
 
 
