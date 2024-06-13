@@ -14,7 +14,7 @@
   <Br>
 </div>
 
-## A passionate backend/frontend developer from The Netherlands
+## A passionate backend developer from The Netherlands
 
 - 🌱 I’m currently learning **Python, C#, TypeScript**
 - 👨‍💻 All of my projects are available at [portfolio/projects](https://portfolio.timmygamer.nl/projects)
