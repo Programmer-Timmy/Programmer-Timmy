@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=Programer-timmy&label=Profile%20views&color=ff80ff&style=flat" alt="Programer-timmy" />
     <a href="https://github.com/Programmer-Timmy?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=$.length&url=https://api.github.com/users/programmer-timmy/repos" alt="Public Repositories" /></a>
     <img src="https://img.shields.io/badge/dynamic/json?label=Working%20On&query=$[0].repo.name&url=https://api.github.com/users/programmer-timmy/events" alt="Latest Event Repo" />
-    <img src="https://img.shields.io/uptimerobot/status/m794172982-cd3cd1bc2f26b3ff01106e7c?style=flat&label=Portfolio&link=portfolio.timmygamer.nl" alt="Portfolio"/>
+    <a href="https://portfolio.timmygamer.nl"><img src="https://img.shields.io/uptimerobot/status/m794172982-cd3cd1bc2f26b3ff01106e7c?style=flat&label=Portfolio&link=portfolio.timmygamer.nl" alt="Portfolio"/></a>
   </div>
   <Br>
   <Br>
