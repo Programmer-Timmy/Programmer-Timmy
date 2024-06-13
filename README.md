@@ -79,7 +79,7 @@
 &nbsp;<div align="center">
 ### 🎧 Currently listening to:
 
-![Spotify](https://spotify-now-playing-timmy.vercel.app/api/spotify)
+[![Spotify](https://spotify-now-playing-timmy.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/pvep73542lioge14tc4if7615?si=12f667dbb24a4212)
 
 </div>
 
