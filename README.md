@@ -49,6 +49,7 @@
     <span>🎮</span>
     <a href="#"><img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unreal-engine&labelColor=gray" alt="Unreal Engine"></a>
     <a href="#"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&labelColor=gray" alt="Unity"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Minecraft%20Modding-02303A?style=flat&logo=gradle&labelColor=gray" alt="Minecraft Modding"></a>
   </div>
   <br>
 
