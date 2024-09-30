@@ -72,6 +72,7 @@
   <span>🔄</span>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&labelColor=gray" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&labelColor=gray" alt="GitHub"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitLab-fc6d26?style=flat&logo=gitlab&labelColor=gray"alt="GitLab"></a>
 </div>
 
 </div>
