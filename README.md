@@ -84,6 +84,7 @@
    <div align="center">
   <h2>🧠 LeetCode Stats</h2>
   <img src="https://leetcard.jacoblin.cool/Programmer-Timmy?theme=nord&font=Work%20Sans&ext=activity" alt="LeetCode Stats" />
+          <p>💻 I try to solve at least one LeetCode problem every day to improve my coding skills!</p>
    </div>
 
 &nbsp;<div align="center">
