@@ -16,7 +16,7 @@
 
 ## A passionate backend developer from The Netherlands
 
-- 🌱 I’m currently learning **Python, C#, TypeScript**
+- 🌱 I’m currently learning **Python, TypeScript, nodeJS**
 - 👨‍💻 All of my projects are available at [portfolio/projects](https://portfolio.timmygamer.nl/projects)
 - 📄 Know about my experiences [portfolio/about](https://portfolio.timmygamer.nl/about)
 
