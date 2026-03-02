@@ -16,7 +16,7 @@
 
 ## A passionate backend developer from The Netherlands
 
-- 🌱 I’m currently learning **Java, Webhooks, nodeJS**
+- 🌱 I’m currently learning **Java, Webhooks, React**
 - 👨‍💻 All of my projects are available at [portfolio/projects](https://timvanderkloet.com/projects)
 - 📄 Know about my experiences [portfolio/about](https://timvanderkloet.com/about)
 
