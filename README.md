@@ -48,7 +48,6 @@
 <a href="#"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"></a>
 
 ### 🖥️ Game & Simulation Engines
-<a href="#"><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
 <a href="#"><img src="https://img.shields.io/badge/Unreal Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"></a>
 <a href="#"><img src="https://img.shields.io/badge/Minecraft Modding-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Minecraft Modding"></a>
 
