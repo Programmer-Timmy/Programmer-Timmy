@@ -63,8 +63,8 @@
 
 ## ⚡ GitHub Stats
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=programmer-timmy&show_icons=true&theme=dark" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-timmy&layout=compact&theme=dark&langs_count=8&card_width=320" />
+  <img height="200" src="https://github-readme-stats-kappa-rust-58.vercel.app/api?username=programmer-timmy&show_icons=true&theme=dark" />
+  <img height="200" src="https://github-readme-stats-kappa-rust-58.vercel.app/api/top-langs/?username=programmer-timmy&layout=compact&theme=dark&langs_count=8&card_width=320" />
 </div>
 
 ## 🎧 Currently Listening To
