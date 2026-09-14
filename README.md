@@ -7,10 +7,6 @@
 
   <img src="https://img.shields.io/badge/dynamic/json?label=Working%20On&query=$[0].repo.name&url=https://api.github.com/users/programmer-timmy/events" alt="Latest Event Repo" />
 
-  <a href="https://timvanderkloet.com">
-    <img src="https://img.shields.io/uptimerobot/status/m794172982-cd3cd1bc2f26b3ff01106e7c?style=flat&label=Portfolio&link=timvanderkloet.com" alt="Portfolio"/>
-  </a>
-
   <br><br>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+Programmer+Timmy!;Welkom+to+my+profile!;Have+a+look+around!)](#)
