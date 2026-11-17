@@ -1,5 +1,3 @@
-<img src="./wave-header.svg" width="100%" height="90" alt="" />
-
 <div align="center">
   <h1>⭐️ Programmer Timmy ⭐️</h1>
   
@@ -109,5 +107,3 @@ I run a dedicated server, built a [production planner](https://github.com/Progra
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=programmer-timmy&label=Profile%20views&color=ff80ff&style=flat" alt="Profile views" />
 </div>
-
-<img src="./wave-footer.svg" width="100%" height="90" alt="" />
